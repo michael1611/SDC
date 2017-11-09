@@ -1,16 +1,5 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup
-
-The goals / steps of this project are the following:
-
-**1. Make a pipeline that finds lane lines on the road**
-
-![alt text][lane_detection]
-<center>A snapshot showing the detected lanes</center>
-
-**2. Reflect on my work in a written report**
-
 
 [//]: # (Image References)
 
@@ -24,6 +13,17 @@ The goals / steps of this project are the following:
 [final]: ./test_images_output/final.JPG "final"
 [shortcoming]: ./test_images_output/shortcoming.JPG "shortcoming"
 [extrapolated_shortcoming]: ./test_images_output/extrapolated_shortcoming.JPG "extrapolated_shortcoming"
+## Writeup
+
+The goals / steps of this project are the following:
+
+**1. Make a pipeline that finds lane lines on the road**
+
+![alt text][lane_detection]
+<center>A snapshot showing the detected lanes</center>
+
+**2. Reflect on my work in a written report**
+
 ---
 
 ### My Pipeline
