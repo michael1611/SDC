@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-![lane_detection]: ./test_images_output/lanes.JPG "Original images with lane detected images"
+[lane_detection]: ./test_images_output/lanes.JPG "Original images with lane detected images"
 [pipeline]: ./test_images_output/pipeline.JPG "my_pipeline"
 [color_filtered]: ./test_images_output/color_filtered.JPG "color_filtered"
 [grayscaled]: ./test_images_output/grayscaled.JPG "grayscaled"
